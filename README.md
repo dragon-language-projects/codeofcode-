@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+Welcome to the codeofcode- wiki!
+## rules of organization
+### main
+- respect all people this means if you have something against some one  handle it professionally.namecalling and bad and gross behavior or sexual misconduct
+- workers will not be terminal based on gender race and believe or neurodeveristy
+- workers must main good work ethic
+- all devs must be credited for their work if doing projects at anytime.
 
-You can use the [editor on GitHub](https://github.com/dragon-language-projects/codeofcode-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dragon-language-projects/codeofcode-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+copyright pendragon @2020
+dragon organization
