@@ -1,11 +1,11 @@
-Welcome to the codeofcode- wiki!
-## rules of organization
+Welcome to the code of code- wiki!
+## rules of the organization
 ### main
-- respect all people this means if you have something against some one  handle it professionally.namecalling and bad and gross behavior or sexual misconduct
-- workers will not be terminal based on gender race and believe or neurodeveristy
-- workers must main good work ethic
-- all devs must be credited for their work if doing projects at anytime.
+- respect all people this means if you have something against someone handle it professionally.namecalling and bad and gross behavior or sexual misconduct.
+- workers will not be terminal based on gender race and belief or neurodiversity.
+- workers must main a good work ethic.
+- all devs must be credited for their work if doing projects at any time.
 
 
-copyright pendragon @2020
+copyright pendragon and avaashui @2020
 dragon organization
